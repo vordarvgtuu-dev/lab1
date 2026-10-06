@@ -1,0 +1,10 @@
+﻿  dz.c
+  prog.c
+C:\Users\PC-DASHA\source\repos\lab1\prog.c(16,9): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\PC-DASHA\source\repos\lab1\prog.c(38,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+C:\Users\PC-DASHA\source\repos\lab1\prog.c(9,1): warning C4716: task0: должна возвращать значение
+C:\Users\PC-DASHA\source\repos\lab1\prog.c(29,1): warning C4716: task2: должна возвращать значение
+C:\Users\PC-DASHA\source\repos\lab1\prog.c(20,1): warning C4716: task1: должна возвращать значение
+prog.obj : error LNK2005: main уже определен в dz.obj
+C:\Users\PC-DASHA\source\repos\lab1\x64\Debug\lab1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
