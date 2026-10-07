@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <windows.h> // не работает #include <locale.h>
 
 int main() {
     system("chcp 65001 > nul"); // не работает setlocale(LC_CTYPE, "RUS");
